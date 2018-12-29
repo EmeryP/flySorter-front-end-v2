@@ -1,6 +1,6 @@
 ![logo](./assets/flysorter-logo.png)
 # Welcome
-The following documentation is specifically for the ***FRONT END*** repository. If you are looking for the ***BACK END*** respository click [HERE](https://github.com/fly-sorter/flySorter-front-end-v2).
+The following documentation is specifically for the ***FRONT END*** repository. If you are looking for the ***BACK END*** respository click [HERE](https://github.com/EmeryP/flySorter-back-end-v2).
 
 # Description
 FlySorter is an inventory management application for the Seattle-based company: [FlySorter](https://flysorter.com/). FlySorter builds machines to sort fruit flies so they can be used for scientific research. This application keeps track of those machine assemblies, sub-assemblies, and the parts that belong to those sub assemblies. These components are displayed on the page and allows the user to click on a sub-assembly to reveal the parts that makeup that sub-assembly. The table also allows the user to filter parts and search for a part in order to make finding particular parts faster and easier for the user.
@@ -26,7 +26,7 @@ The following technologies were used to develop the frontend:
 # Running the Application
 The frontend was developed to run in conjunction with the original backend for the FlySorter application that was developed using Node, Express, and MongoDB. The frontend has been refactored to use React/Redux best practices, and incorporates a subtle update to the CSS styling to give the product a more refined and modern look/feel. 
 
-The frontend code that lives in this repo has been deployed to [AWS S3](https://aws.amazon.com/s3/), and communicates to the AWS hosted [BACK-END](https://github.com/fly-sorter/flySorter-front-end-v2) also hosted on AWS. To view the latest deployement for this application please visit this [link](). 
+The frontend code that lives in this repo has been deployed to [AWS S3](https://aws.amazon.com/s3/), and communicates to the AWS hosted [BACK-END](https://github.com/EmeryP/flySorter-back-end-v2) also hosted on AWS. To view the latest deployement for this application please visit this [link](http://flyorterfrontendv2-20181221115532-hostingbucket.s3-website-us-west-2.amazonaws.com).
 
 # Account Setup
 ### Once on the landing page...
@@ -82,6 +82,6 @@ ____
 [David Chambers, Jr.](https://github.com/dlchambersjr) | |
 [Emery Parks](https://github.com/emeryP) | |
 [Timothy Li](https://github.com/timinis) | |
-[Trevor Stam](hhttps://github.com/trevorstam)
+[Trevor Stam](https://github.com/trevorstam)
 
 ____
